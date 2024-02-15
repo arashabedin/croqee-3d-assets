@@ -44,10 +44,10 @@
     "materials" : [
         {
             "doubleSided" : true,
-            "name" : "Scene_-_Root.001",
+            "name" : "Material.002",
             "pbrMetallicRoughness" : {
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.6000000238418579
+                "roughnessFactor" : 0.5
             }
         }
     ],
