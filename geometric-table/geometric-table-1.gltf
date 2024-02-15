@@ -44,7 +44,7 @@
     "materials" : [
         {
             "doubleSided" : true,
-            "name" : "Material.002",
+            "name" : "Material.003",
             "pbrMetallicRoughness" : {
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
